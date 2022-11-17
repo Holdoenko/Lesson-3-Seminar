@@ -7,8 +7,9 @@
 
 ## Работа с изображениями
 
+Чтобы добавить изображение в Markdown, используйте следующую конструкцию:
+![Альтернативный текст](https://phonoteka.org/uploads/posts/2022-01/1642965899_52-phonoteka-org-p-krasivii-fon-priroda-54.jpg)
 
-бла бла бла
 
 ## Работа с таблицами
 
@@ -39,4 +40,6 @@ Content Cell | Content Cell
 ```HTML
 <table><td><tr></td></tr></table>
 ```
+
+
 
